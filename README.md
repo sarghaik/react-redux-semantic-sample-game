@@ -1,3 +1,6 @@
+# react-redux-semantic-sample-game
+Sample react redux semantic based game with common toolset usage
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
